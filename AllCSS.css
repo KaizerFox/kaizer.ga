@@ -1,0 +1,261 @@
+body
+{
+	font: normal 8pt/normal 'Comic Sans MS' , Verdana, sans-serif;
+	margin-top: 0;
+	text-transform: none;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+a:link, a:visited, a:active
+{
+	color: Blue;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+/* The abbr tag is not supported in IE 6 (it is in IE 7)
+   Therefore, we're using acronym instead */
+abbr, acronym
+{
+	cursor: help;
+	border-bottom: 1px dotted #000;
+	color: white;
+}
+
+h2
+{
+	letter-spacing: 1px;
+	color: white;
+}
+
+h3
+{
+	font-size: 12pt;
+	font-weight: bold;
+	letter-spacing: 2px;
+	margin: 10px 0 10px 0;
+	color: white;
+}
+
+h5
+{
+	font: normal 11px/normal Verdana, sans-serif;
+	letter-spacing: 1px;
+	padding: 5px 5px 5px 5px;
+	color: white;
+}
+
+input.Text
+{
+	border-color: #777;
+	border-style: dashed;
+	color: white;
+}
+
+
+.Button
+{
+	cursor: pointer;
+	background-color: #fff;
+	border: solid 1px #333;
+	color: #333;
+	font-family: Verdana, Sans-Serif;
+	font-size: 0.9em;
+	padding: 3px 10px 3px 10px;
+	text-decoration: none;
+}
+
+.Button:link, .Button:visited
+{
+	border: solid 1px #777;
+	color: #777;
+}
+
+.Button:hover, .Button:active
+{
+	background-color: #6e99c9;
+	border: solid 1px #000;
+	color: #fff;
+}
+
+.MenuItem {
+	color: white;
+	font-size: 18px;
+	line-height: 2em;
+}
+
+a.MenuItem:link, a.MenuItem:visited, a.MenuItem:active
+{
+	color: White;
+	text-decoration: none;
+}  
+
+a.MenuItem:hover
+{
+	text-decoration: underline;
+}
+
+#Navigation{
+	clear: both;
+	background-color: #6e99c9;
+	border-bottom: solid 1px #000;
+	border-left: solid 1px #000;
+	border-right: solid 1px #000;
+	color: #fff;
+	font-family: 'Comic Sans MS', Verdana, sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	line-height: 2em;
+	text-decoration: none;
+	width: 900px;
+        
+}
+
+#Banner{
+	background-repeat: no-repeat;
+	border-bottom: solid 1px #000;
+	border-left: solid 1px #000;
+	border-right: solid 1px #000;
+    border-top: solid 1px #000;
+	height: 72px;
+	text-align: center;
+	width: 900px;
+	background-color: lightblue;
+        
+}
+
+hr {
+	width: 900px;
+	color: white;
+}
+.SystemAlert {
+	background-color: #FFF;
+	text-align: center;
+	color: #FFF;
+	border: 2px solid #000;
+	padding: 1px;
+	border-top: 1.9px black solid;
+	width: 895px;
+}
+.SystemAlertText {
+	font-size: 16px;
+	font-weight: bold;
+	padding: 2px;
+}
+.Exclamation {
+	background: url("http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/resources/exclamation.png") no-repeat;
+	height: 16px;
+	width: 16px;
+	float: left;
+}
+#header {
+	border: solid 1px black;
+	width: 150px;
+	background-color: #cccccc;
+	border-bottom: solid 1px #000000;
+	margin: 0;
+	color: white;
+
+}
+h5 {
+    font: normal 11px/normal Verdana, sans-serif;
+    letter-spacing: 1px;
+	padding: 5px 5px 5px 5px;
+	color: white;
+}
+h5 {
+    display: block;
+    font-size: 0.83em;
+    -webkit-margin-before: 1.67em;
+    -webkit-margin-after: 1.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+	font-weight: bold;
+	color: white;
+}
+#LoginView #AlreadySignedIn {
+	border: solid 1px black;
+    background-color: black;
+	width:150px;
+	color: white;
+}
+#ProfilePanel {
+	border: solid 1px white;
+	background-color: lightsteelblue;
+}
+#ProfilePanel p {
+    margin: 0.9em 0;
+    line-height: 1.6em;
+}
+
+#Body {
+	margin: 10px 0;
+	width: 900px;
+	background-color: black;
+}
+#Container {
+    margin: 0 auto;
+    width: 900px;
+}
+#extra {
+    background-color: black;
+    border: solid 1px white;
+    float: right;
+    margin: -85px 0 10px 0;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+	width: 715px;	
+	color: white;
+}
+ #LeftHolder {
+    float: left;
+    text-align: center;
+	width: 444px;
+	color: white;
+}
+
+ #RightHolder {
+    float: right;
+    text-align: center;
+    width: 444px;
+	margin-bottom: 20px;
+	color: white;
+}
+
+
+#ProfilePanel h4
+{
+	background-color: white;
+	border-top: solid 1px black;
+	color: #333;
+	font-size: 1.3em;
+	margin: 0;
+	text-align: center;
+}
+
+#GamesHeader {
+    clear: right;
+    margin: -10px 0 0 0;
+	border: solid 1px black;
+	background-color: lightsteelblue;
+}
+
+#GamesBody {
+	clear: right;
+	border: solid 1px black;
+}
+.right {
+	float: right;
+}
