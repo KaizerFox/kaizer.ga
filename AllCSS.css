@@ -8,6 +8,14 @@ body
 	color: white;
 }
 
+.bodycenter 
+{
+text-align: center;
+align-items: center;
+align-self: center;
+align-content: center;
+}
+
 a
 {
 	text-decoration: none;

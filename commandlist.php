@@ -22,7 +22,7 @@ include 'header.php';
 <title>Hmm465's Site</title>
 </head>
 
-<body class="body">
+<body class="bodycenter">
 <center>
 
 
@@ -30,9 +30,7 @@ include 'header.php';
 <br><br>
 </center>
 
-<h1>want more info about me? go here <a href="http://hmm465.epizy.com/info.html">go here</a></h1>
-<br><br>
-
+<center>
 <h2>[] = required parameter, {} = optional</h2>
 <br>
 
@@ -139,6 +137,6 @@ Owner Only:
     document.write(`<div class="center"> <br> <br> <h2> today is ${today} </div>`);
         </script>
    
-
+</center>
 </body>
 </html>
