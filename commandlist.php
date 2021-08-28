@@ -3,13 +3,13 @@ include 'header.php';
 ?>
 
 <!doctype html>
-<html prefix="og: http://ogp.me/ns#">
+<html prefix="og: https://ogp.me/ns#">
 <head>
 <link href="./index.css" rel="stylesheet" type="text/css" media="all">
 
 <meta property="og:title" content="Hmm465's Command List" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://hmm465.epizy.com/commandlist.html" />
+<meta property="og:url" content="https://kaibot.rf.gd/commandlist.html" />
 
 <meta charset="UTF-8">
 <link rel="apple-touch-icon"/>

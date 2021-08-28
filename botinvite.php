@@ -3,13 +3,13 @@ include 'header.php';
 ?>
 
 <!doctype html>
-<html prefix="og: http://ogp.me/ns#">
+<html prefix="og: https://ogp.me/ns#">
 <head>
 <link href="./index.css" rel="stylesheet" type="text/css" media="all">
 
 <meta property="og:title" content="Hmm465's Invite Page" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://hmm465.epizy.com/info.html" />
+<meta property="og:url" content="https://kaibot.rf.gd/info.html" />
 
 <meta charset="UTF-8">
 <link rel="apple-touch-icon"/>
@@ -39,7 +39,7 @@ include 'header.php';
         openInNewTab("https://discordapp.com/oauth2/authorize?client_id=670312397688537109&scope=bot&permissions=2147483639");
     }
     function goBack() {
-        window.location.href="http://hmm465.xyz/index.php";
+        window.location.href="https://hmm465.xyz/index.php";
     }
 </script>
 

@@ -3,18 +3,18 @@
 ?>
 
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#">
+<html prefix="og: https://ogp.me/ns#">
 <head>
 	<title>Hmm465's Site</title>
 </head>
 <head>
-	<link rel="stylesheet" type="text/css" href="https://hmm465.xyz/AllCSS.css">
-	<link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="https://kaibot.rf.gd/AllCSS.css">
+	<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 
 <meta property="og:title" content="Hmm465's site" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hmm465.xyz/meme.php" />
-<meta property="og:image" content="https://hmm465.xyz/favico.ico" />
+<meta property="og:url" content="https://kaibot.rf.gd/meme.php" />
+<meta property="og:image" content="https://kaibot.rf.gd/favico.ico" />
 <meta property="og:description" content="the meme page" />
 <meta property="og:locale" content="en_US" />
 </head>
@@ -27,7 +27,7 @@
 
 <script>
 
-var imagesArray = ["http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/IMG_0911.png", "http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/WhatTheActual.png", "http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/free.jpg", "http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/mafia.png", "http://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/mafia2.png"];
+var imagesArray = ["https://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/IMG_0911.png", "https://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/WhatTheActual.png", "https://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/free.jpg", "https://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/mafia.png", "https://raw.githubusercontent.com/DontStalkMebro/Hmm465.is-great.net/master/images/mafia2.png"];
 
 
 //create a function named displayImage
