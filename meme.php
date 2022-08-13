@@ -8,13 +8,13 @@
 	<title>Hmm465's Site</title>
 </head>
 <head>
-	<link rel="stylesheet" type="text/css" href="https://kaibot.rf.gd/AllCSS.css">
+	<link rel="stylesheet" type="text/css" href="/AllCSS.css">
 	<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 
 <meta property="og:title" content="Hmm465's site" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://kaibot.rf.gd/meme.php" />
-<meta property="og:image" content="https://kaibot.rf.gd/favico.ico" />
+<meta property="og:url" content="/meme.php" />
+<meta property="og:image" content="/favico.ico" />
 <meta property="og:description" content="the meme page" />
 <meta property="og:locale" content="en_US" />
 </head>

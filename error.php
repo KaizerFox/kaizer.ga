@@ -4,13 +4,13 @@ include 'header.php';
 
 <html prefix="og: https://ogp.me/ns#">
 <head>
-<link rel="stylesheet" type="text/css" href="https://kaibot.rf.gd/AllCSS.css">
+<link rel="stylesheet" type="text/css" href="/AllCSS.css">
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 
 <meta property="og:title" content="Hmm465's site"/>
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://kaibot.rf.gd/error.php" />
-<meta property="og:image" content="https://kaibot.rf.gd/favico.ico" />
+<meta property="og:url" content="/error.php" />
+<meta property="og:image" content="/favico.ico" />
 <meta property="og:description" content="error page" />
 <meta property="og:locale" content="en_US" />
 </head>

@@ -9,7 +9,7 @@ include 'header.php';
 
 <meta property="og:title" content="Hmm465's Invite Page" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://kaibot.rf.gd/info.html" />
+<meta property="og:url" content="/info.html" />
 
 <meta charset="UTF-8">
 <link rel="apple-touch-icon"/>
