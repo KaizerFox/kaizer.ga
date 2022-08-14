@@ -7,9 +7,9 @@ include 'header.php';
 <link rel="stylesheet" type="text/css" href="/AllCSS.css">
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 
-<meta property="og:title" content="Hmm465's site"/>
+<meta property="og:title" content="Kaizer's site"/>
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/error.php" />
+<meta property="og:url" content="https://kaizer.ga/error.php" />
 <meta property="og:image" content="/favico.ico" />
 <meta property="og:description" content="error page" />
 <meta property="og:locale" content="en_US" />

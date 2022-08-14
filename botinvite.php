@@ -7,9 +7,9 @@ include 'header.php';
 <head>
 <link href="./index.css" rel="stylesheet" type="text/css" media="all">
 
-<meta property="og:title" content="Hmm465's Invite Page" />
+<meta property="og:title" content="Kaizer's Invite Page" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/info.html" />
+<meta property="og:url" content="https://kaizer.ga/botinvite.php" />
 
 <meta charset="UTF-8">
 <link rel="apple-touch-icon"/>
@@ -18,7 +18,7 @@ include 'header.php';
 <meta name="viewport"/>
 <meta http-equiv="Expires"/>
 <meta http-equiv="X-UA-Compatible"/>
-<title>Hmm465's Site</title>
+<title>Kaizer's Site</title>
 </head>
 
 <body class="body">
@@ -33,10 +33,10 @@ include 'header.php';
       win.focus();
     }
     function admin1() {
-        openInNewTab("https://discordapp.com/oauth2/authorize?client_id=670312397688537109&scope=bot&permissions=8");
+        openInNewTab("https://discord.com/oauth2/authorize?client_id=1007806243676622889&scope=bot&permissions=8");
     }
     function admin2() {
-        openInNewTab("https://discordapp.com/oauth2/authorize?client_id=670312397688537109&scope=bot&permissions=2147483639");
+        openInNewTab("https://discord.com/oauth2/authorize?client_id=1007806243676622889&scope=bot&permissions=8");
     }
     function goBack() {
         window.location.href="https://kaizer.ga/index.php";

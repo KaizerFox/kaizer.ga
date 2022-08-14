@@ -7,9 +7,9 @@ include 'header.php';
 <head>
 <link href="./index.css" rel="stylesheet" type="text/css" media="all">
 
-<meta property="og:title" content="Hmm465's Command List" />
+<meta property="og:title" content="Kaizer's Command List" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/commandlist.html" />
+<meta property="og:url" content="https://kaizer.ga/commandlist.php" />
 
 <meta charset="UTF-8">
 <link rel="apple-touch-icon"/>
@@ -19,7 +19,7 @@ include 'header.php';
 <meta http-equiv="Expires"/>
 <meta http-equiv="X-UA-Compatible"/>
 
-<title>Hmm465's Site</title>
+<title>Kaizer's Site</title>
 </head>
 
 <body class="bodycenter">
