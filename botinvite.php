@@ -39,7 +39,7 @@ include 'header.php';
         openInNewTab("https://discordapp.com/oauth2/authorize?client_id=670312397688537109&scope=bot&permissions=2147483639");
     }
     function goBack() {
-        window.location.href="https://hmm465.xyz/index.php";
+        window.location.href="https://kaizer.ga/index.php";
     }
 </script>
 
