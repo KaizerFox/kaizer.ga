@@ -5,7 +5,7 @@ include 'header.php';
 <!doctype html>
 <html prefix="og: https://ogp.me/ns#">
 <head>
-<link href="./index.css" rel="stylesheet" type="text/css" media="all">
+<link href="./AllCSS.css" rel="stylesheet" type="text/css" media="all">
 
 <meta property="og:title" content="Kaizer's Command List" />
 <meta property="og:type" content="website" />
