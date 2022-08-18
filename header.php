@@ -17,7 +17,7 @@
 <div class="SystemAlert">
 <div class="Exclamation"></div>
 		<div class="SystemAlertText" style="background-color: orange;">
-				<h3>a website redesign, how do you like it?</a></b>.</h3>
+				<h3>you should join my discord NOW! <a href="https://discord.gg/nA4EDqQwWb">https://discord.gg/nA4EDqQwWb</a></b>.</h3>
 				</div>
 			</div>
 </nav>
